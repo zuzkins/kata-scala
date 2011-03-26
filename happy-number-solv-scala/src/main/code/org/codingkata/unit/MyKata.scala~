@@ -1,0 +1,16 @@
+package org.codingkata.unit;
+
+import _root_.org.codingkata.unit.api.BaseKataSolution;
+import scala.collection.muttab
+
+class MyKata extends BaseKataSolution {
+
+  def isHappy(number: Long): Boolean {
+    isHappy(number * number, Set.empty[Long])
+  }
+
+  def isHappy(pow: Long, tried: Set[Long]) : Boolean = {
+    if (tried
+  }
+
+}
